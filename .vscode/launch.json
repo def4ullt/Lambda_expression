@@ -8,6 +8,48 @@
             "type": "java",
             "name": "main",
             "request": "launch",
+            "mainClass": "Task12.main",
+            "projectName": "Lambda_expression_6aacb2ef"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Task6.main",
+            "projectName": "Lambda_expression_6aacb2ef"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Task10.main",
+            "projectName": "Lambda_expression_6aacb2ef"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Task4.main",
+            "projectName": "Lambda_expression_6aacb2ef"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Task5.main",
+            "projectName": "Lambda_expression_6aacb2ef"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Task9.main",
+            "projectName": "Lambda_expression_6aacb2ef"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
             "mainClass": "Task8.main",
             "projectName": "Lambda_expression_6aacb2ef"
         },
